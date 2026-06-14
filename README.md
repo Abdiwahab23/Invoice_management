@@ -1,6 +1,6 @@
 # Invoice Pro
 
-Invoice Pro is a modern, responsive, and robust invoice management platform built with Laravel 11. It allows businesses to efficiently manage their customers, invoices, and payments in one centralized platform.
+Invoice Pro is a modern, responsive, and robust invoice management platform built with Laravel 12 (specifically Laravel v12.62.0). It allows businesses to efficiently manage their customers, invoices, and payments in one centralized platform.
 
 ## Features
 
