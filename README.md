@@ -26,11 +26,11 @@ Invoice Pro is a modern, responsive, and robust invoice management platform buil
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Abdiwahab23/Invoice-Pro.git
+   git clone https://github.com/Abdiwahab23/Invoice_management.git
    ```
 2. Navigate into the directory and install dependencies:
    ```bash
-   cd Invoice-Pro
+   cd Invoice_management
    composer install
    npm install && npm run build
    ```
